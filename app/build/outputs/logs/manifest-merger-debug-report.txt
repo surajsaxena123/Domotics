@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:4:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.UPDATE_DEVICE_STATE
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:8:22-75
+application
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.android.domotics.MainActivity
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.domotics.Menu_display
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.example.android.domotics.Main_settings
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:23:19-48
+activity#com.example.android.domotics.Main
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:24:9-42
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:24:19-39
+activity#com.example.android.domotics.Helpline
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:25:19-43
+activity#com.example.android.domotics.wifi
+ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:26:9-29:20
+	android:name
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml:26:19-39
+uses-sdk
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/project_assistant/Desktop/Android Projects/Domotics-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/ee54600ebded489d2ec241427580710b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/7d31a4a0387f04acb4bbdb1f7a6d1695/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/860ce0c62eae22068bd1ec608d7cc3fd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/89af7b8bc740fe1181d1065b163a39b0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38cd08e303e7a6225a42cc143b8eabdd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/4f4f663f55e3e24dd8467a7a5674b839/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c8905664dd6e71b65435dd4e536a9ec3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/7ab79f9955e447adfb6cd7c923fffcf3/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/project_assistant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a81e899d1f32ac26060a0b1f1279e648/AndroidManifest.xml:26:9-47

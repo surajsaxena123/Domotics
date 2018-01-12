@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1.0"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_title"
+        android:text="Remote access of Dragonboard 410c" />
+
+
+
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lights"
+        android:textSize="30sp"
+        android:id="@+id/sw_pin_31"
+        android:layout_below="@+id/sw_pin_30"
+        android:layout_centerHorizontal="true"
+        android:background="#ba68c8"/>
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Pump "
+        android:textSize="30sp"
+        android:id="@+id/sw_pin_32"
+        android:layout_below="@+id/sw_pin_31"
+        android:layout_centerHorizontal="true"
+        android:background="#5c6bc0"/>
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Plug  "
+        android:textSize="30sp"
+        android:id="@+id/sw_pin_33"
+        android:layout_below="@+id/sw_pin_32"
+        android:layout_centerHorizontal="true"
+        android:background="#8bc34a"/>
+
+
+
+
+
+</LinearLayout>

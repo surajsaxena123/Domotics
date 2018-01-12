@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1.0"
+    >
+
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView7"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/settings"
+        android:onClick="sendMessage2"
+        android:layout_weight=".3"
+        android:scaleType="centerCrop" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton3"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/device"
+        android:onClick="sendMessage1"
+        android:layout_weight=".3"
+        android:scaleType="centerCrop" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton4"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/hhh"
+        android:onClick="sendMessage3"
+        android:layout_weight=".3"
+        android:scaleType="centerCrop" />
+
+</LinearLayout>
+
+
